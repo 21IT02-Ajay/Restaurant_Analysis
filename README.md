@@ -103,10 +103,3 @@ This project focuses on analyzing restaurant data to uncover insights related to
 - Insights into the impact of online delivery and table booking on restaurant success.
 
 - Geospatial mapping of restaurant locations to identify clusters.
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
