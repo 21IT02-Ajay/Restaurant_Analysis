@@ -11,14 +11,14 @@ This project focuses on analyzing restaurant data to uncover insights related to
 - Features: Restaurant names, locations, cuisines, price range, ratings, votes, reviews, online delivery availability, and more.
 
 ## Tasks & Analysis:
-
-### 1.Top Cuisines
+## Level - 1
+### T1.Top Cuisines
 
 - Identify the top three most common cuisines.
 
 - Calculate the percentage of restaurants serving each of the top cuisines.
 
-### 2.City Analysis
+### T2.City Analysis
 
 - Find the city with the highest number of restaurants.
 
@@ -26,19 +26,19 @@ This project focuses on analyzing restaurant data to uncover insights related to
 
 - Identify the city with the highest average rating.
 
-### 3.Price Range Distribution
+### T3.Price Range Distribution
 
 - Create a histogram or bar chart to visualize price range distribution.
 
 - Calculate the percentage of restaurants in each price category.
 
-### 4.Online Delivery
+### T4.Online Delivery
 
 - Determine the percentage of restaurants offering online delivery.
 
 - Compare the average ratings of restaurants with and without online delivery.
-
-### 5.Restaurant Ratings
+## Level - 2
+### T1.Restaurant Ratings
 
 - Analyze the distribution of aggregate ratings.
 
@@ -46,37 +46,37 @@ This project focuses on analyzing restaurant data to uncover insights related to
 
 - Calculate the average number of votes received by restaurants.
 
-### 6.Cuisine Combination
+### T2.Cuisine Combination
 
 - Identify the most common cuisine combinations.
 
 - Determine if certain cuisine combinations have higher ratings.
 
-### 7.Geographic Analysis
+### T3.Geographic Analysis
 
 - Plot restaurant locations on a map using longitude and latitude.
 
 - Identify patterns or clusters in specific areas.
 
-### 8.Restaurant Chains
+### T4.Restaurant Chains
 
 - Identify restaurant chains in the dataset.
 
 - Analyze the ratings and popularity of different restaurant chains.
-
-### 9.Restaurant Reviews
+## Level - 3
+### T1.Restaurant Reviews
 
 - Analyze text reviews to identify common positive and negative keywords.
 
 - Calculate the average length of reviews and explore the relationship between review length and rating.
 
-### 10.Votes Analysis
+### T2.Votes Analysis
 
 - Identify restaurants with the highest and lowest number of votes.
 
 - Analyze the correlation between the number of votes and restaurant ratings.
 
-### 11.Price Range vs. Online Delivery & Table Booking
+### T3.Price Range vs. Online Delivery & Table Booking
 
 - Analyze the relationship between price range and the availability of online delivery and table booking.
 
